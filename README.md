@@ -18,6 +18,7 @@
 </div>
 
 ---
+<img align="center" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" alt="One Piece" />
 
 <!-- CONTATOS -->
 ## 🌐 Conecte-se comigo
@@ -41,17 +42,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elberthmayan&theme=radical&fire=FF00F6&ring=FF00F6&currStreakNum=FFFFFF&border_radius=10"/>
 </div>
-
----
-
-<!-- COBRINHA DE CONTRIBUIÇÃO -->
-## 🐍 Snake Game - Contribuições animadas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
