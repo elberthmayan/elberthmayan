@@ -32,7 +32,7 @@
 </table>
 
 </div>
----
+
 
 ## My Stack
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elberthmayan&theme=blueberry&fire=00BFFF&ring=00BFFF&currStreakNum=FFFFFF&border_radius=10"/>
@@ -68,7 +68,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake.svg">
 </picture>
----
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elberthmayan&color=ff00f6&style=flat-square" alt="profile views" />
 </div>
