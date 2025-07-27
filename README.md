@@ -25,11 +25,6 @@
       <a href="https://www.linkedin.com/in/elberthmayan">
         <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" height="35"/>
       </a>
-      <br/>
-      <a href="https://instagram.com/seu_usuario">
-        <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF" height="35"/>
-      </a>
-    </td>
     <td>
       <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" alt="Luffy - One Piece" width="220"/>
     </td>
