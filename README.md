@@ -1,20 +1,7 @@
-<!-- TÍTULO ANIMADO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&width=550&lines=▹+Seja+bem-vindo+ao+meu+perfil!+♂;▹+Sou+Elberth+Mayan%2C+apaixonado+por+tecnologia!;▹+Desenvolvedor+em+evolução+constante...">
-  </a>
-</div>
-
-<br />
 
 <!-- SOBRE MIM -->
 ## 👨‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔍 Explorando o mundo da tecnologia com paixão por aprender
-- 🧠 Foco atual: **Python**, **HTML**, **CSS** e **JavaScript**
-- 💡 Amo criar soluções e construir projetos do zero
-- 🎯 Em busca de oportunidades para crescer como desenvolvedor
-
+- 🎓 Estudante de **TI**
 ---
 
 <!-- STACK -->
