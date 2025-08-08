@@ -1,119 +1,40 @@
+
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  <h1>Elberth Mayan</h1>
+</div>
+
+<nav aria-label="Links para GitHub" style="display: flex; gap: 10px; align-items: center;">
+  <a href="mailto:elberthmayan2007@gmail.com">
+    <img alt="Gmail" title="Email me" src="https://img.shields.io/badge/Email-elberthmayan2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
-
-## About me
-
- **IT** Student
-
----
-
-## Contact
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:elberthmayan2007@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF" height="35"/>
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/in/elberthmayan">
-        <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" height="35"/>
-      </a>
-    <td>
-      <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" alt="Luffy - One Piece" width="220"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-## My Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-</div>
+  <a href="https://www.linkedin.com/in/elberthmayan/">
+    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/elberthmayan">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elberthmayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</nav>
+<img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" alt="Luffy - One Piece" width="220"/>
 
 ---
+### 🤖 Technologies I use
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=blueberry&hide_title=true&hide=issues&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&langs_count=6&theme=blueberry&border_radius=10" />
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elberthmayan&theme=blueberry&fire=00BFFF&ring=00BFFF&currStreakNum=FFFFFF&border_radius=10"/>
-</div>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elberthmayan&color=ff00f6&style=flat-square" alt="profile views" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 📊Estatísticas
+![Elberth Mayan GitHub stats](https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dark)
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jan-Carles/Jan-Carles/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jan-Carles/Jan-Carles/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jan-Carles/Jan-Carles/output/github-contribution-grid-snake.svg">
 </picture>
