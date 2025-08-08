@@ -19,8 +19,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elberthmayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </nav>
-<img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" alt="Luffy - One Piece" width="220"/>
-
 ---
 ### 🤖 Technologies I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
