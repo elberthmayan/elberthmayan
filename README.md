@@ -1,23 +1,12 @@
 <div align="center">
 
-# Elberth Mayan  
+#  Elberth Mayan  
 ### 💻 Estudante de TI  
 
----
-
-<!-- Social Links -->
-<p>
-<a href="mailto:elberthmayan2007@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/elberthmayan/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
 
 ---
 
-##Habilidades & Ferramentas  
+##  Habilidades & Ferramentas  
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,6 +27,9 @@
 ---
 
 ✨ _“Sempre aprendendo, sempre evoluindo.”_
+
+</div>
+
 
 </div>
 
