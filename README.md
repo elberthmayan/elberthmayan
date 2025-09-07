@@ -1,35 +1,47 @@
-
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-
 <div align="center">
-  <h1>Elberth Mayan</h1>
-</div>
 
-<nav aria-label="Links para GitHub" style="display: flex; gap: 10px; align-items: center;">
-  <a href="mailto:elberthmayan2007@gmail.com">
-    <img alt="Gmail" title="Email me" src="https://img.shields.io/badge/Email-elberthmayan2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/elberthmayan/">
-    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/elberthmayan">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elberthmayan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</nav>
+# Elberth Mayan  
+### 💻 Estudante de TI  
 
 ---
-### 🤖 Technologies I use
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊Estatísticas
-![Elberth Mayan GitHub stats](https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dark)
+<!-- Social Links -->
+<p>
+<a href="mailto:elberthmayan2007@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/elberthmayan/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+##Habilidades & Ferramentas  
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+##  Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+✨ _“Sempre aprendendo, sempre evoluindo.”_
+
+</div>
+
+
 
 
 <picture align="center">
