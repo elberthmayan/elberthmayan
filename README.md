@@ -1,12 +1,12 @@
 <div align="center">
 
 #  Elberth Mayan  
-### 💻 Estudante de TI  
+### 💻 IT student
 
 
 ---
 
-##  Habilidades & Ferramentas  
+##  Skills and tools
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,7 +17,7 @@
 
 ---
 
-##  Estatísticas do GitHub  
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=tokyonight"/>
