@@ -29,25 +29,13 @@
 
 ---
 
-<BR>
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-
-</div>
-<br>
 <h1 align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 
-###
+---
+
 <img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ---
 
