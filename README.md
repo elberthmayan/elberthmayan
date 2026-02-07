@@ -2,19 +2,19 @@
 
 <table border="0">
 <tr>
-<td width="25%" valign="top">
+<td width="30%" valign="top">
 <br>
 
-🚀 Aspiring Full Stack<br>
-🇧🇷 Based in Brazil<br>
-👨‍💻 Focused on Web Dev
+🎓 IT Student<br>
+🐧 Linux Enthusiast<br>
+⚡ Automation & Scripts
 
 </td>
-<td width="75%" valign="top" align="center">
+<td width="70%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elberth+%F0%9F%91%8B;Full+Stack+Developer.;Python+%7C+JS+%7C+Web" alt="Typing SVG" />
 
-<p><em>Building modern & efficient web solutions.</em></p>
+<p><em>Focusing on Web Development & System Automation.</em></p>
 
 <a href="https://www.linkedin.com/in/elberth-mayan-9ba208295/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,7 +26,8 @@
 
 <br>
 
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dracula&hide_border=true"/>
 
 <br><br>
 
