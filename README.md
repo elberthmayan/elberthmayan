@@ -1,65 +1,38 @@
 <div align="center">
 
-<h1>Hi, I'm Elberth 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elberth+%F0%9F%91%8B;Full+Stack+Developer.;Python+%7C+JS+%7C+Web" alt="Typing SVG" />
 
-<p>
-Full Stack Developer passionate about building modern and efficient web solutions.
-</p>
+  <p>
+    <em>Building modern & efficient web solutions.</em>
+  </p>
 
-<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/elberthmayan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 
-</div>
+  <br><br>
 
----
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dracula&hide_border=true&bg_color=00000000"/>
 
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
+  <br><br>
 
-<h2>🚀 About Me</h2>
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
 
-- 🔭 Currently working on **personal projects**
-- 🌱 Constantly learning **new technologies**
-- 💬 Ask me about **HTML, CSS, JavaScript and Python**
-- 🎯 Focused on becoming a strong **Full Stack Developer**
+  <br><br>
 
-</td>
-<td valign="top" width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
-</div>
-
----
-
-<h3 align="center">👾 Contributions</h3>
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 </div>
