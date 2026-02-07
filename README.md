@@ -12,7 +12,7 @@
 </td>
 <td width="70%" valign="top" align="center">
 
-<h1>Hi, I'm Elberth 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elberth+%F0%9F%91%8B" alt="Typing SVG" />
 
 <p><em>Focusing on Web Development & System Automation.</em></p>
 
