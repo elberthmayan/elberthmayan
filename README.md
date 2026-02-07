@@ -1,74 +1,61 @@
-<!-- Header com Efeito de Digitação -->
-
-<h1 align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2F81F7%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello%2BWorld!%2BI%27m%2BMayan%3BIT%2BStudent%2B%2526%2BDeveloper%3BPython%2B%257C%2BJavaScript%2B%257C%2BWeb%3BAlways%2BLearning%2BNew%2BThings..." alt="Typing SVG" />
-</h1>
+# 🚀 Olá, eu sou o Mayan!
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FOCUS-WEB%2520DEVELOPMENT-blue%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="Focus">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/STATUS-OPEN%2520TO%2520WORK-success%3Fstyle%3Dfor-the-badge" alt="Status">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2cb&height=200&section=header&text=Code%20.%20Automate%20.%20Customize&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<br />
+### 👨‍💻 Estudante de TI | Entusiasta Linux | Belo Horizonte, BR
 
-<!-- Sobre Mim -->
+Não sou apenas um programador, sou um **explorador de sistemas**. Acredito que a tecnologia deve ser moldada para trabalhar *para* nós (e ter um visual incrível enquanto faz isso). Meu foco é criar soluções limpas, automatizar o tédio e personalizar cada pixel do meu ambiente de desenvolvimento.
 
-<h3 align="center">🚀 About Me</h3>
+---
 
-<p align="center">
-<em>"Transforming caffeine into code and ideas into reality."</em>
-</p>
+### 🛠️ Tech Stack & Ferramentas
 
-<p align="center">
-I am an <strong>Information Technology Student</strong> passionate about building software that solves real-world problems. Currently exploring the depths of <strong>Python</strong> and <strong>Web Development</strong> while improving my algorithms and data structures skills.
-</p>
+Minha caixa de ferramentas principal para desenvolvimento web e automação:
 
 <div align="center">
-<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank" />
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" target="_blank" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Linux_Zorin-009688?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<br />
+---
 
-<!-- Tech Stack Organizado -->
+### ⚡ O que estou fazendo agora?
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+* 🐍 **Automação:** Criando scripts em Python para limpar, organizar e otimizar fluxos de trabalho no Windows e Linux.
+* 🐧 **Customização:** Explorando o ecossistema Linux (atualmente no **Zorin OS**) e configurando dual-boots perfeitos.
+* 🎨 **Front-end:** Aprimorando interfaces com JS e CSS modernos.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-<!-- Linguagens -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
-
-<br /> <br />
-
-<!-- Ferramentas -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<br />
+---
 
-<!-- Estatísticas do GitHub (Usando seu user elberthmayan) -->
-
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📫 Conecte-se comigo
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/elberthmayan">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Delberthmayan%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Delberthmayan%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
-</a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
+  </a>
 </div>
-
-<br />
 
 <!-- Gráfico do Pacman -->
 
