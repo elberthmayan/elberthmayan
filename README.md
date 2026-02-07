@@ -44,10 +44,6 @@
 
 ###
 
-<p align="left">🚀 <strong>Hello World!!</strong> Atualmente focado em automações com Python e desenvolvimento web (HTML, CSS e JS).</p>
-
-###
-
 <div align="left">
   <a href="SEU_LINK_DO_DISCORD">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo" />
