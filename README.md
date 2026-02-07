@@ -23,12 +23,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=dracula&hide_border=true"/>
-
 <br><br>
 
 <h3>🛠️ Tech Stack</h3>
