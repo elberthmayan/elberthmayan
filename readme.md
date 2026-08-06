@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0066FF&text=ELBERTH%20MAYAN&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-<h3>Developer • Technology Enthusiast • Always Learning</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedor+Web;🚀+Sempre+aprendendo+algo+novo."/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=elberthmayan&style=for-the-badge&color=0e75b6"/>
@@ -13,14 +13,14 @@
 
 ---
 
-## 👋 Sobre
+## 👨‍💻 Sobre
 
 ```ts
 const elberth = {
   location: "Brazil 🇧🇷",
   role: "Developer",
   stack: ["HTML", "CSS", "JavaScript", "Python"],
-  tools: ["Git", "GitHub", "Supabase", "VS Code"],
+  tools: ["Git", "GitHub", "VS Code", "Supabase"],
 };
 ```
 
@@ -46,16 +46,24 @@ const elberth = {
 
 ---
 
-## 🚀 Atualmente
+# 🚀 Atualmente
 
-- Aprendendo JavaScript e React
-- Construindo projetos para portfólio
-- Estudando Python e Git
+```txt
+📚 Aprendendo:
+
+▰▰▰▰▱▱▱▱▱▱ JavaScript
+
+▰▰▰▰▰▱▱▱▱▱ Python
+
+▰▰▰▰▰▰▱▱▱▱ Git & GitHub
+
+▰▰▰▰▱▱▱▱▱▱ React
+```
 
 ---
 
 <div align="center">
 
-*"Code. Learn. Build."*
+**Code. Learn. Build.**
 
 </div>
