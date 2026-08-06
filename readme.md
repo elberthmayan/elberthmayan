@@ -19,8 +19,8 @@ const elberth = {
     name: "Elberth Mayan",
     country: "Brazil 🇧🇷",
     role: "Developer",
-    code: ["JavaScript","Python","HTML","CSS"],
-    tools: ["VS Code","Git","GitHub","Supabase"],
+    code: ["JavaScript", "Python", "HTML", "CSS"],
+    tools: ["VS Code", "Git", "GitHub", "Supabase"],
     hobbies: [
         "💻 Programação",
         "🎮 Games",
@@ -84,20 +84,9 @@ const elberth = {
 
 ---
 
-# 📌 Projetos em Destaque
-
-| Projeto | Descrição |
-|----------|-----------|
-| 💈 Black Diamond | Sistema completo para barbearias |
-| 🌐 Portfólio | Meu site pessoal |
-| 🐍 Python | Projetos e automações |
-| ⚡ Outros | Experimentos e estudos |
-
----
-
 <div align="center">
 
-### 💬 "A melhor forma de prever o futuro é construí-lo."
+### 💬 *"A melhor forma de prever o futuro é construí-lo."*
 
 ⭐ Obrigado por visitar meu perfil!
 
