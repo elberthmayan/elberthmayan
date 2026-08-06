@@ -1,59 +1,74 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=220&section=header&text=Elberth%20Mayan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20|%20Web&descAlignY=55"/>
+<div align="center">
 
-<h1 align="center">👋 Olá, eu sou Elberth Mayan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,50:0072FF,100:6A00FF&text=ELBERTH%20MAYAN&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Technology%20Enthusiast%20•%20Always%20Learning&descAlignY=58"/>
 
-<p align="center">
-💻 Técnico em TI • 🌐 Desenvolvedor Web • 🚀 Apaixonado por Tecnologia
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Web;Python+Developer;Sempre+aprendendo+algo+novo..." />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=elberthmayan&label=Visualizações&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/elberthmayan?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/elberthmayan?style=for-the-badge&logo=github"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Front-end;Sempre+aprendendo+algo+novo..." />
-</p>
+</div>
 
----
+# 👨‍💻 Sobre mim
 
-## 🚀 Sobre mim
-
-```js
+```javascript
 const elberth = {
-    location: "Brasil 🇧🇷",
-    role: "Técnico em TI",
-    learning: [
-        "JavaScript",
-        "Python",
-        "Supabase",
-        "Git"
-    ],
+    name: "Elberth Mayan",
+    country: "Brazil 🇧🇷",
+    role: "Developer",
+    code: ["JavaScript","Python","HTML","CSS"],
+    tools: ["VS Code","Git","GitHub","Supabase"],
     hobbies: [
-        "Programação",
-        "Tecnologia",
-        "Games",
-        "Filmes"
+        "💻 Programação",
+        "🎮 Games",
+        "🎬 Filmes",
+        "🚀 Tecnologia"
     ]
 }
 ```
 
 ---
 
-## 💻 Stack
+# ⚡ Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,supabase&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,supabase,linux,bash,vercel,figma&perline=6"/>
 </p>
 
 ---
 
-## 📊 Estatísticas
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Atividade
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elberthmayan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elberthmayan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elberthmayan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribuições
+# 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=elberthmayan&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=elberthmayan&theme=tokyonight&hide_border=true"/>
@@ -61,26 +76,23 @@ const elberth = {
 
 ---
 
-## 🐍 Snake
+# 📌 Projetos em Destaque
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/elberthmayan/elberthmayan/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌎 Contato
-
-<p align="center">
-<a href="https://github.com/elberthmayan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+| Projeto | Descrição |
+|----------|-----------|
+| 💈 Black Diamond | Sistema completo para barbearias |
+| 🌐 Portfólio | Meu site pessoal |
+| 🐍 Python | Projetos e automações |
+| ⚡ Outros | Experimentos e estudos |
 
 ---
 
-<p align="center">
+<div align="center">
+
+### 💬 "A melhor forma de prever o futuro é construí-lo."
+
 ⭐ Obrigado por visitar meu perfil!
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A00FF,50:0072FF,100:00C6FF"/>
+
+</div>
