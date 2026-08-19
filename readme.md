@@ -73,8 +73,6 @@ const elberth = {
 - 📚 Learning React, TypeScript and Node.js
 - 💻 Building personal projects
 - 🐍 Improving my Python skills
-- 🌱 Always learning something new
-
 ---
 
 <div align="center">
