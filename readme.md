@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```ts
 const elberth = {
@@ -48,7 +48,7 @@ const elberth = {
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,supabase,linux,vercel&perline=5"/>
