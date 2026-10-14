@@ -76,15 +76,3 @@ const elberth = {
 ---
 
 <div align="center">
-
-### 📫 Connect with me
-
-<a href="https://github.com/elberthmayan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-**Code. Learn. Build.**
-
-</div>
